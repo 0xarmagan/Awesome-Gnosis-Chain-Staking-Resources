@@ -53,8 +53,8 @@ Deposit Page: https://deposit.gnosischain.com/
 
 ### Health Dashboards
 
-* d14n.info
-* Gnosispools.info
+* [d14n.info](https://www.d14n.info/)
+* [gnosispools.info](https://www.gnosispools.info/)
 * [GnosisScan Node Tracker](https://gnosisscan.io/nodetracker)
 * [Gnosis Chain Dune Dashboard](https://dune.com/gnosischain_team/gnosischain)
 * https://ethstats.gnosischain.com/
