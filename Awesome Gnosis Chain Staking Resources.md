@@ -82,7 +82,8 @@ Deposit Page: https://deposit.gnosischain.com/
 * [Get to Gnosis - Diva Staking: Fully Integrating liquid staking with DVT](https://open.spotify.com/episode/2Hq1V5KAYOwxMupaWFSOHr?si=411f71dafe66424c)
 * [New Epoch by StakeWise](https://stakewise.medium.com/new-epoch-by-stakewise-september-edition-e7b60d8d8906)
 * [GLCstaked](https://mirror.xyz/0xf3bF9DDbA413825E5DdF92D15b09C2AbD8d190dd)
-* Gnosis Validator FAQs
+* [Validator Withdrawals](https://docs.gnosischain.com/node/management/withdrawals#how-to-receive-my-withdrawal-full-or-partial)
+* [Gnosis Withdrawal Credential Fix For DappNode / Avado Users!](https://www.youtube.com/watch?v=By9VmNviNT0)
 
 ## Meetup/Community Call/Event
 
