@@ -34,7 +34,7 @@ Gnosis es una cadena gestionada por la comunidad y creada por nodos operados por
 
 Ejecutar un nodo es quizás la forma más profunda de contribuir a una red blockchain. Al ejecutar un nodo, tú eres la red. Junto con otros nodos operados por personas en todo el planeta, formas parte de una red global que es anti-frágil y resistente.
 
-Página de Depósito: https://deposit.gnosischain.com/
+Página de depósito: https://deposit.gnosischain.com/
 
 ![](https://hackmd.io/_uploads/HkAe4_4ba.png)
 
@@ -101,14 +101,14 @@ Página de Depósito: https://deposit.gnosischain.com/
 
 # Staking Líquido
 
-Los proveedores de staking líquido permiten a cualquiera realizar staking sin tener que administrar la infraestructura por sí mismos. También brinda a los stakers la oportunidad de utilizar sus recursos tokenizados staked (sGNO y rGNO) para agricultura de rendimiento, préstamos o reinversión mientras se protege el protocolo.
+Los proveedores de staking líquido permiten a cualquiera realizar staking sin tener que administrar la infraestructura por sí mismos. También brinda a los stakers la oportunidad de utilizar sus recursos tokenizados (sGNO y rGNO) para farming de rendimiento, préstamos o reinversión mientras se protege el protocolo.
 
 * [StakeWise](https://app.stakewise.io/)
 * [validategnosis.com](https://www.validategnosis.com/)
 
 # Chiado
 
-Chiado está optimizado para la estabilidad de la red de prueba para desarrolladores y cuenta con un conjunto de validadores semipermisionados similar al de la red de prueba Sepolia de Ethereum.
+Chiado está optimizada para la estabilidad de la red de prueba para desarrolladores y cuenta con un conjunto de validadores semipermisionados similar al de la red de prueba Sepolia de Ethereum.
 
 **Cómo Participar**
 
